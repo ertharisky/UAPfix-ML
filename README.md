@@ -17,6 +17,8 @@ Model yang digunakan : MobileNetV2 seperti dibawah :
 
 graph Loss dan Accuracy :
 ![image](https://github.com/ertharisky/UAPfix-ML/blob/main/acc%2Closs.png)
+
+Predict Data :
 <div>
     <img src="download.png" alt="dataset" width="75%">
 </div>
